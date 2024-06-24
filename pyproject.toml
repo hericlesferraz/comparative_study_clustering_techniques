@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "comparative_study_clustering_techniques"
+version = "0.1.0"
+description = ""
+authors = ["hericles.ferraz <hericles.ferraz@pixeon.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+hdbscan = "^0.8.37"
+scikit-learn = "^1.5.0"
+matplotlib = "^3.9.0"
+seaborn = "^0.13.2"
+pandas = "^2.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
