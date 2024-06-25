@@ -46,4 +46,10 @@ comparative_study_clustering_techniques/jupyter/comparative_study_clustering_tec
 
 ### Results
 
+Plot results of metric in algorithms:
+
 ![Image](image_results/result.png "a title")
+
+Plot elbow methog:
+
+![Image](image_results/result_elbow.png "a title")
